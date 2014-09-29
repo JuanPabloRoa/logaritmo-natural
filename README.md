@@ -10,3 +10,4 @@ version	logaritmo 			ns/calls
       2						191.10
       3						50.2
       4						149.6
+      5 					48
