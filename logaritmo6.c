@@ -16,7 +16,7 @@
 
 double log(double x){// funcion que retornara el logaritmo de x en base a  la serie de Taylor
 
-	double  A = x-1;//48
+	double  A = x-1;//49.7
 	double B = x+1;
 	double C = (A/B);  
 	return 2*((A)/(x+1)+
